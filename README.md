@@ -6,9 +6,9 @@ Python Tricks: Takes a deep dive into the nuances of the Python programming lang
 
 1. [1-Merging_two_dicts_Python](https://github.com/LawiOtieno/Python_Tricks-Real_Python/blob/main/1-Merging_two_dicts_Python.py)
 
-<!-- 2. []()
+2. [2-Test_multiple_flags_once](https://github.com/LawiOtieno/Python_Tricks-Real_Python/blob/main/2-Test_multiple_flags_once.py)
 
-3. []() -->
+<!-- 3. []() -->
 
 <!-- 4. []()
 
